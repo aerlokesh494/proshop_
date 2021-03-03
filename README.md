@@ -3,7 +3,12 @@
 > eCommerce platform built with the MERN stack & Redux.
 
 
-![screenshot](https://github.com/bradtraversy/proshop_mern/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
+![screenshot](https://github.com/aerlokesh494/proshop_/blob/main/uploads/Screenshot%202021-03-03%20at%207.02.46%20AM.png)
+
+![screenshot](https://github.com/aerlokesh494/proshop_/blob/main/uploads/Screenshot%202021-03-03%20at%207.03.27%20AM.png)
+
+![screenshot](https://github.com/aerlokesh494/proshop_/blob/main/uploads/Screenshot%202021-03-03%20at%207.05.31%20AM.png)
+
 
 ## Features
 
